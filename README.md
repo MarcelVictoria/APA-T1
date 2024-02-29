@@ -109,6 +109,7 @@ plt.show()                            # Per mostrar els grafics
 
 tortilla
 
+asdfghjklñ
 2. Modifica el programa per considerar com a senyal a analitzar el senyal del fitxer wav que has creat (`x_r, fm = sf.read('nom_fitxer.wav')`).
 
     - Insereix a continuació una gràfica que mostri 5 períodes del senyal i la seva transformada.
